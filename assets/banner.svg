@@ -63,7 +63,7 @@
     <text x="0" y="65" class="title">Chanithi Perera</text>
     
     <!-- Subtitle / Role -->
-    <text x="0" y="105" class="role">Data Science Undergraduate @ SLIIT</text>
+    <text x="0" y="105" class="role">Data Science Undergraduate</text>
     
     <!-- Tagline / Mission -->
     <text x="0" y="145" class="tagline">Building intelligent solutions through Data Science, AI,</text>
