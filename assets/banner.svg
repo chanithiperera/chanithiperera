@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="260" viewBox="0 0 800 260" fill="none">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;display=swap');
+    
+    .title {
+      font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 800;
+      font-size: 36px;
+      fill: url(#title-gradient);
+    }
+    
+    .subtitle {
+      font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 600;
+      font-size: 18px;
+      fill: #a78bfa;
+    }
+    
+    .tagline {
+      font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 400;
+      font-size: 15px;
+      fill: #e2e8f0;
+      opacity: 0.9;
+    }
+    
+    .role {
+      font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 600;
+      font-size: 14px;
+      fill: #60a5fa;
+    }
+
+    @keyframes pulse {
+      0% { opacity: 0.12; }
+      50% { opacity: 0.25; }
+      100% { opacity: 0.12; }
+    }
+
+    .glow-purple {
+      animation: pulse 6s ease-in-out infinite;
+    }
+
+    .glow-blue {
+      animation: pulse 8s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="800" height="260" rx="16" fill="#0b0f19"/>
+  <rect x="0.5" y="0.5" width="799" height="259" rx="15.5" stroke="url(#border-gradient)" stroke-opacity="0.5" fill="none"/>
+
+  <!-- Glow effects -->
+  <circle class="glow-purple" cx="150" cy="130" r="180" fill="url(#purple-glow)" />
+  <circle class="glow-blue" cx="650" cy="130" r="200" fill="url(#blue-glow)" />
+
+  <!-- Content Group -->
+  <g transform="translate(60, 55)">
+    <!-- Wave Emoji + Intro -->
+    <text x="0" y="20" class="subtitle">👋 Hi, I'm</text>
+    
+    <!-- Main Name -->
+    <text x="0" y="65" class="title">Chanithi Perera</text>
+    
+    <!-- Subtitle / Role -->
+    <text x="0" y="105" class="role">Data Science Undergraduate @ SLIIT</text>
+    
+    <!-- Tagline / Mission -->
+    <text x="0" y="145" class="tagline">Building intelligent solutions through Data Science, AI,</text>
+    <text x="0" y="170" class="tagline">and Software Engineering.</text>
+  </g>
+
+  <!-- Graphic Accents / Sparkles -->
+  <g transform="translate(700, 50)" opacity="0.7">
+    <!-- Star 1 -->
+    <path d="M0 10 L3 3 L10 0 L3 -3 L0 -10 L-3 -3 L-10 0 L-3 3 Z" fill="#a78bfa" transform="translate(10, 20) scale(1.2)" />
+    <!-- Star 2 -->
+    <path d="M0 10 L3 3 L10 0 L3 -3 L0 -10 L-3 -3 L-10 0 L-3 3 Z" fill="#60a5fa" transform="translate(30, 80) scale(0.8)" />
+    <!-- Star 3 -->
+    <path d="M0 10 L3 3 L10 0 L3 -3 L0 -10 L-3 -3 L-10 0 L-3 3 Z" fill="#a78bfa" transform="translate(-10, 110) scale(0.6)" />
+  </g>
+
+  <!-- Definitions -->
+  <defs>
+    <!-- Purple Radial Glow -->
+    <radialGradient id="purple-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Blue Radial Glow -->
+    <radialGradient id="blue-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Title Gradient (Purple to Blue) -->
+    <linearGradient id="title-gradient" x1="0" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#c084fc"/> <!-- Light Purple -->
+      <stop offset="50%" stop-color="#818cf8"/> <!-- Indigo -->
+      <stop offset="100%" stop-color="#60a5fa"/> <!-- Light Blue -->
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="border-gradient" x1="0" y1="0" x2="800" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+</svg>
