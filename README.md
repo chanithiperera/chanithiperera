@@ -208,7 +208,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/chanithiperera?template=classic&config.timezone=Asia%2FColombo&base.header=1&base.activity=1&base.community=1&base.repositories=1&config.animations=y" alt="GitHub Metrics" width="100%" />
+  <img src="https://metrics.lecoq.io/chanithiperera?template=classic&config.timezone=Asia%2FColombo&base.header=1&base.activity=0&base.community=0&base.repositories=0&config.animations=y" alt="GitHub Metrics" width="100%" />
 </p>
 
 <br/>
