@@ -207,11 +207,7 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/chanithiperera?template=classic&config.timezone=Asia%2FColombo&base.header=1&base.activity=0&base.community=0&base.repositories=0&config.animations=y" alt="GitHub Metrics" width="100%" />
-</p>
 
-<br/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanithiperera&theme=tokyonight&background=0d1117&fire=a78bfa&ring=3b82f6&currStreakLabel=60a5fa&currStreakNum=ffffff&sideNums=ffffff&sideLabels=60a5fa&dates=c9d1d9&border=30363d" alt="GitHub Streak" width="100%" />
