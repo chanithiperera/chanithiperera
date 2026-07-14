@@ -94,7 +94,6 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🧙 SpellCraft AI</h3>
-      <a href="https://github.com/chanithiperera/spellcraft-ai-gesture-game"><img src="https://img.shields.io/badge/Status-Active-8b5cf6?style=flat-square" alt="Status" /></a>
       <p>A real-time, gesture-controlled fantasy game powered by AI. Utilizes computer vision and deep learning models to recognize hand gestures and cast spell actions dynamically.</p>
       <p>
         <code>Python</code> &bull; <code>OpenCV</code> &bull; <code>MediaPipe</code> &bull; <code>NumPy</code>
@@ -103,7 +102,6 @@
     </td>
     <td width="50%" valign="top">
       <h3>🌾 GoviSmart</h3>
-      <a href="https://github.com/chanithiperera/Smart_Fertilizer_Recommendation"><img src="https://img.shields.io/badge/Status-Completed-3b82f6?style=flat-square" alt="Status" /></a>
       <p>An intelligent machine learning fertilizer recommendation platform designed to help farmers optimize agricultural yields through data-driven soil composition analysis.</p>
       <p>
         <code>Python</code> &bull; <code>Scikit-learn</code> &bull; <code>Pandas</code> &bull; <code>NumPy</code>
@@ -113,17 +111,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Healthcare Customer Care</h3>
-      <a href="https://github.com/chanithiperera/Healthcare_CustomerCare_System"><img src="https://img.shields.io/badge/Status-Active-8b5cf6?style=flat-square" alt="Status" /></a>
-      <p>A robust Enterprise Appointment Management System built with Spring Boot. Features complex patient queuing logic, appointment scheduling, and role-based coordinator consoles.</p>
+      <h3>🧠 Student Depression Prediction</h3>
+      <p>A machine learning-based prediction system that analyzes student behavioral and academic data to identify early signs of depression and support mental health intervention.</p>
       <p>
-        <code>Java</code> &bull; <code>Spring Boot</code> &bull; <code>MySQL</code> &bull; <code>Thymeleaf</code>
+        <code>Python</code> &bull; <code>Scikit-learn</code> &bull; <code>Pandas</code> &bull; <code>Streamlit</code>
       </p>
-      <a href="https://github.com/chanithiperera/Healthcare_CustomerCare_System"><b>Explore Repository ↗</b></a>
+      <a href="https://github.com/chanithiperera/Student_Depression_Prediction_System"><b>Explore Repository ↗</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🦁 Zoo Management System</h3>
-      <a href="https://github.com/chanithiperera/Zoo-Management"><img src="https://img.shields.io/badge/Status-Completed-3b82f6?style=flat-square" alt="Status" /></a>
       <p>A comprehensive mobile visitor management platform. Includes real-time ticketing validation, interactive enclosure navigations, and informative wildlife animal guides.</p>
       <p>
         <code>React Native</code> &bull; <code>Node.js</code> &bull; <code>Express</code> &bull; <code>MongoDB</code>
@@ -139,7 +135,6 @@
   <tr>
     <td width="100%" align="center" valign="top">
       <h3>🌐 Personal Portfolio Website</h3>
-      <a href="https://chanithi.vercel.app/"><img src="https://img.shields.io/badge/Status-Live-8b5cf6?style=flat-square" alt="Status" /></a>
       <p>A beautifully designed, interactive personal portfolio website showcasing academic work, developer projects, publications, and accomplishments.</p>
       <p>
         <code>React</code> &bull; <code>Framer Motion</code> &bull; <code>TailwindCSS</code> &bull; <code>Vite</code>
