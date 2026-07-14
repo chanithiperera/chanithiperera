@@ -6,16 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="https://chanithiperera.github.io" target="_blank">
+  <a href="https://chanithi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/chanithi-perera" target="_blank">
+  <a href="https://www.linkedin.com/in/chanithi-perera-5253b7392/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@chanithiperera" target="_blank">
+  <a href="https://medium.com/@chanithidehansa" target="_blank">
     <img src="https://img.shields.io/badge/Medium-8b5cf6?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="mailto:chanithiperera@example.com">
+  <a href="mailto:chanithidehansa@gmail.com">
     <img src="https://img.shields.io/badge/Email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -94,41 +94,41 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🧙 SpellCraft AI</h3>
-      <a href="https://github.com/chanithiperera/SpellCraft-AI"><img src="https://img.shields.io/badge/Status-Active-8b5cf6?style=flat-square" alt="Status" /></a>
+      <a href="https://github.com/chanithiperera/spellcraft-ai-gesture-game"><img src="https://img.shields.io/badge/Status-Active-8b5cf6?style=flat-square" alt="Status" /></a>
       <p>A real-time, gesture-controlled fantasy game powered by AI. Utilizes computer vision and deep learning models to recognize hand gestures and cast spell actions dynamically.</p>
       <p>
         <code>Python</code> &bull; <code>OpenCV</code> &bull; <code>MediaPipe</code> &bull; <code>NumPy</code>
       </p>
-      <a href="https://github.com/chanithiperera/SpellCraft-AI"><b>Explore Repository ↗</b></a>
+      <a href="https://github.com/chanithiperera/spellcraft-ai-gesture-game"><b>Explore Repository ↗</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌾 GoviSmart</h3>
-      <a href="https://github.com/chanithiperera/GoviSmart"><img src="https://img.shields.io/badge/Status-Completed-3b82f6?style=flat-square" alt="Status" /></a>
+      <a href="https://github.com/chanithiperera/Smart_Fertilizer_Recommendation"><img src="https://img.shields.io/badge/Status-Completed-3b82f6?style=flat-square" alt="Status" /></a>
       <p>An intelligent machine learning fertilizer recommendation platform designed to help farmers optimize agricultural yields through data-driven soil composition analysis.</p>
       <p>
         <code>Python</code> &bull; <code>Scikit-learn</code> &bull; <code>Pandas</code> &bull; <code>NumPy</code>
       </p>
-      <a href="https://github.com/chanithiperera/GoviSmart"><b>Explore Repository ↗</b></a>
+      <a href="https://github.com/chanithiperera/Smart_Fertilizer_Recommendation"><b>Explore Repository ↗</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🏥 Healthcare Customer Care</h3>
-      <a href="https://github.com/chanithiperera/Healthcare-Customer-Care"><img src="https://img.shields.io/badge/Status-Active-8b5cf6?style=flat-square" alt="Status" /></a>
+      <a href="https://github.com/chanithiperera/Healthcare_CustomerCare_System"><img src="https://img.shields.io/badge/Status-Active-8b5cf6?style=flat-square" alt="Status" /></a>
       <p>A robust Enterprise Appointment Management System built with Spring Boot. Features complex patient queuing logic, appointment scheduling, and role-based coordinator consoles.</p>
       <p>
         <code>Java</code> &bull; <code>Spring Boot</code> &bull; <code>MySQL</code> &bull; <code>Thymeleaf</code>
       </p>
-      <a href="https://github.com/chanithiperera/Healthcare-Customer-Care"><b>Explore Repository ↗</b></a>
+      <a href="https://github.com/chanithiperera/Healthcare_CustomerCare_System"><b>Explore Repository ↗</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🦁 Zoo Management System</h3>
-      <a href="https://github.com/chanithiperera/Zoo-Management-System"><img src="https://img.shields.io/badge/Status-Completed-3b82f6?style=flat-square" alt="Status" /></a>
+      <a href="https://github.com/chanithiperera/Zoo-Management"><img src="https://img.shields.io/badge/Status-Completed-3b82f6?style=flat-square" alt="Status" /></a>
       <p>A comprehensive mobile visitor management platform. Includes real-time ticketing validation, interactive enclosure navigations, and informative wildlife animal guides.</p>
       <p>
         <code>React Native</code> &bull; <code>Node.js</code> &bull; <code>Express</code> &bull; <code>MongoDB</code>
       </p>
-      <a href="https://github.com/chanithiperera/Zoo-Management-System"><b>Explore Repository ↗</b></a>
+      <a href="https://github.com/chanithiperera/Zoo-Management"><b>Explore Repository ↗</b></a>
     </td>
   </tr>
 </table>
@@ -139,12 +139,12 @@
   <tr>
     <td width="100%" align="center" valign="top">
       <h3>🌐 Personal Portfolio Website</h3>
-      <a href="https://github.com/chanithiperera/chanithiperera.github.io"><img src="https://img.shields.io/badge/Status-Live-8b5cf6?style=flat-square" alt="Status" /></a>
+      <a href="https://chanithi.vercel.app/"><img src="https://img.shields.io/badge/Status-Live-8b5cf6?style=flat-square" alt="Status" /></a>
       <p>A beautifully designed, interactive personal portfolio website showcasing academic work, developer projects, publications, and accomplishments.</p>
       <p>
         <code>React</code> &bull; <code>Framer Motion</code> &bull; <code>TailwindCSS</code> &bull; <code>Vite</code>
       </p>
-      <a href="https://github.com/chanithiperera/chanithiperera.github.io"><b>Explore Website ↗</b></a>
+      <a href="https://chanithi.vercel.app/"><b>Explore Website ↗</b></a>
     </td>
   </tr>
 </table>
