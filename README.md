@@ -26,7 +26,7 @@
 
 ## 💫 About Me
 
-- 🎓 **Third-Year Data Science Undergraduate** at the Sri Lanka Institute of Information Technology (SLIIT).
+- 🎓 **Data Science Undergraduate** at the Sri Lanka Institute of Information Technology (SLIIT).
 - 💡 Passionate about **Artificial Intelligence, Machine Learning, Data Analytics**, and **Software Engineering**.
 - 🚀 Focused on building **intelligent, data-driven applications** that solve real-world problems and create lasting impact.
 - 🌱 Constantly learning, mentoring, and actively contributing to open-source developer communities.
