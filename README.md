@@ -256,7 +256,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/normal-badge/?username=chanithiperera&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=chanithiperera&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
